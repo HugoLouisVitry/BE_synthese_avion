@@ -24,4 +24,7 @@ Même que précédement ce qui est normal car dphr et cm son codépendants
             un angle de braquage plus élevé que pour un volume inf
 
 5.
-
+alpha et Cle évoluent dans le même sens ( même 0 )d
+on peut observer le décrochage 
+pour ms = 1 ( facce à 0.2) on a une meilleure portance à incidence négative
+     et pour alpha positif on a une plus faible portance et on décroche a incidence plus faible 
