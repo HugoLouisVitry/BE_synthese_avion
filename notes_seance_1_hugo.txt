@@ -1,0 +1,27 @@
+q :
+ 
+1.
+Altittude augmente => Pousse diminue
+Mache augmente => pousse diminue 
+
+2. 
+Alpha augmente => CL augmente
+dDHL augmente => CL augmente
+On reconnait l'allure usuelle avec la perte de portance pour des alpha grands, donc l'effet de décrochage est bien simulé
+
+
+3.ms augmente => la pente diminue . La pente est négative pour ms positive.
+-> à développer ( je pense )
+
+Pour ms négatif : alpha augmente => Cm augmente
+une perturbation augmente le moment de tanguage => l'incidence cabre
+    => l'avion est donc instable statiquement
+
+4. 
+Même que précédement ce qui est normal car dphr et cm son codépendants 
+
+(mathias) : Au meme ms pour un volume VT sup pour un alpha donné on aurra
+            un angle de braquage plus élevé que pour un volume inf
+
+5.
+

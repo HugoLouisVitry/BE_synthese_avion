@@ -20,7 +20,7 @@ if __name__ == "__main__":
     plt.xlabel('altitude en m'); plt.ylabel('pression en Hectopascal');
     plt.savefig('./images/isa_pressure.png', dpi=120)
 
-    p = dynamic.Param_A320()
+    p = dynamic.Param_A319()
     print('longueur du fuselage de l\'{}: {}m'.format(p.name, p.l_fus))
 
 
