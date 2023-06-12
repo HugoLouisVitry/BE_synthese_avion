@@ -21,10 +21,19 @@ une perturbation augmente le moment de tanguage => l'incidence cabre
 Même que précédement ce qui est normal car dphr et cm son codépendants 
 
 (mathias) : Au meme ms pour un volume VT sup pour un alpha donné on aurra
-            un angle de braquage plus élevé que pour un volume inf
+            un angle de braquage plus élevé que pour un volume inf 
+            => dphr et vt sont proportionnels
 
 5.
 alpha et Cle évoluent dans le même sens ( même 0 )d
 on peut observer le décrochage 
-pour ms = 1 ( facce à 0.2) on a une meilleure portance à incidence négative
+pour ms = 1 (face à 0.2) on a une meilleure portance à incidence négative
      et pour alpha positif on a une plus faible portance et on décroche a incidence plus faible 
+
+
+6.
+finesse max = Cle /Cde.
+
+On constate que la polaire dépend de la marge statique 
+La polaire monte lorsque sm diminue.
+On augmente donc le CLe max sans influer le Cde

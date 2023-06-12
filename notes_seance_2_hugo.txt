@@ -1,0 +1,35 @@
+1.
+augmenter sm et km = > Fn augmente
+- A basse altitude on observe la même allure , augmenter mach pour augmeter Fn 
+- A haute altitude on observe un pic au début de courbe avant de reprendre
+    une croissance régulière.
+- La poussée est largement diminué en haute altitude 
+- On observe un point Fn/Mach qui est le même pour les deux altitudes 
+    ( sauf sur la première courbe )
+    => Pour optimiser la poussée il faut gérer les coeficients km et ks
+    il peut être intéréssant d'avoir le point cité précédement pour assurer 
+    une poussée nominale lors des différentes phases de vol
+
+
+2. 
+La poussée augmente avec le mach comme à la question precédente ( heureusement )
+
+3.
+On obtient pour (z = 5000, Ma = 0.5, sm=0.2, km=0.1), CL=0.352(40281198156703)
+Conlusion réglage vitesse : ???
+
+En utilisant les graphiques séance 1:
+-pour ms = 1   : Alpha_e = 4.7 °   => dphr = -15.6 °
+-pour ms = 0.2 : Alpha_e = 3.466 ° => dphr = -9.05 °
+
+
+Obtenir dth , 
+on peut suposer que à l'equilibre en palier 
+la pousée moteur = poussée nécéssaire donc utiliser l'équation (24) 
+(modèle J.Mattingly) pour extraire dth 
+
+
+4.
+
+5.
+
